@@ -6,6 +6,11 @@ import { Line } from "../../layout/Line";
 export const Projects = () => {
   const projects = [
     {
+      title: CONSTANTS.CURRENCY_CONVERTER_TITLE,
+      description: CONSTANTS.CURRENCY_CONVERTER_DESC,
+      link: CONSTANTS.CURRENCY_CONVERTER_LINK
+    },
+    {
       title: CONSTANTS.ONLINE_LEARNING_APP_TITLE,
       description: CONSTANTS.ONLINE_LEARNING_APP_TITLE,
       link: CONSTANTS.ONLINE_LEARNING_APP_LINK
