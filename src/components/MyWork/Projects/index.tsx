@@ -6,6 +6,11 @@ import { Line } from "../../layout/Line";
 export const Projects = () => {
   const projects = [
     {
+      title: CONSTANTS.KANBAN_TITLE,
+      description: CONSTANTS.KANBAN_DESC,
+      link: CONSTANTS.KANBAN_LINK
+    },
+    {
       title: CONSTANTS.CURRENCY_CONVERTER_TITLE,
       description: CONSTANTS.CURRENCY_CONVERTER_DESC,
       link: CONSTANTS.CURRENCY_CONVERTER_LINK
