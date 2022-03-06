@@ -6,6 +6,11 @@ import { Line } from "../../layout/Line";
 export const Projects = () => {
   const projects = [
     {
+      title: CONSTANTS.HUAWEI_DEVICE_CATALOG_TITLE,
+      description: CONSTANTS.HUAWEI_DEVICE_CATALOG_DESC,
+      link: CONSTANTS.HUAWEI_DEVICE_CATALOG_LINK
+    },
+    {
       title: CONSTANTS.KANBAN_TITLE,
       description: CONSTANTS.KANBAN_DESC,
       link: CONSTANTS.KANBAN_LINK
