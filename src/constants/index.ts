@@ -12,6 +12,7 @@ export const MY_WORK_TITLE = "My Work";
 //Projects links
 export const PROJECTS_LIST_TITLE = 'Projects';
 
+export const USERS_LIST_TEST_TASK_TITLE = "Users list Test Task";
 export const HUAWEI_DEVICE_CATALOG_TITLE = "HUAWEI Device Gallery";
 export const KANBAN_TITLE = "Kanban Desk";
 export const CURRENCY_CONVERTER_TITLE = "Currency Converter";
@@ -21,6 +22,7 @@ export const UMD_STATIC_SITE_TITLE = "Underground Mining Department";
 export const HUAWEI_WATCH_GT_2_PAGE_TITLE = "HUAWEI WATCH GT 2 Page";
 export const APPLE_EVENT2021_PAGE_TITLE = "Apple Event 2021";
 
+export const USERS_LIST_TEST_TASK_DESC = "Users list Test Task";
 export const HUAWEI_DEVICE_CATALOG_DESC = "HUAWEI Device Gallery";
 export const KANBAN_DESC = "Kanban Desk";
 export const CURRENCY_CONVERTER_DESC = "Currency Converter";
@@ -30,6 +32,7 @@ export const UMD_STATIC_SITE_DESC = "Static Site";
 export const HUAWEI_WATCH_GT_2_PAGE_DESC = "Flexbox Practice";
 export const APPLE_EVENT2021_PAGE_DESC = "Flexbox Practice";
 
+export const USERS_LIST_TEST_TASK_LINK = "https://users-table-task.vercel.app/";
 export const HUAWEI_DEVICE_CATALOG_LINK = "https://huawei-device-gallery.vercel.app/";
 export const KANBAN_LINK = "https://kanban-desk.vercel.app/";
 export const CURRENCY_CONVERTER_LINK = "https://currency-converter-artiomb5.vercel.app/";
