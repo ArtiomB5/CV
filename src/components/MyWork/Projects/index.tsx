@@ -6,6 +6,11 @@ import { Line } from "../../layout/Line";
 export const Projects = () => {
   const projects = [
     {
+      title: CONSTANTS.GITHUB_SEARCH_TEST_TASK_TITLE,
+      description: CONSTANTS.GITHUB_SEARCH_TEST_TASK_DESC,
+      link: CONSTANTS.GITHUB_SEARCH_TEST_TASK_LINK
+    },
+    {
       title: CONSTANTS.USERS_LIST_TEST_TASK_TITLE,
       description: CONSTANTS.USERS_LIST_TEST_TASK_DESC,
       link: CONSTANTS.USERS_LIST_TEST_TASK_LINK
